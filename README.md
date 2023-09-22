@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # React-Architopia CLI
 
 React-Architopia is a command-line tool for generating boilerplate code and project structures for React, Next.js, and React Native projects, making it easier for developers to kickstart their projects.
@@ -43,5 +43,4 @@ If you'd like to contribute to React-Architopia or report issues, please visit t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
