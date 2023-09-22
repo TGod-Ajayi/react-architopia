@@ -1,0 +1,34 @@
+{
+	"name": "react-architopia",
+	"version": "1.0.0",
+	"description": "opinionated  structure for react-based apps ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc",
+		"start": "ts-node src/cli.ts"
+	},
+	"bin": {
+		"react-architopia": "./dist/cli.js"
+	},
+	"keywords": [
+		"React",
+		"Next.JS",
+		"React-Native",
+		"Architecture",
+		"Folder",
+		"Structure"
+	],
+	"author": "ThankGod Ajayi",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"commander": "^11.0.0",
+		"shelljs": "^0.8.5"
+	},
+	"devDependencies": {
+		"@types/node": "^20.6.2",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.2.2"
+	}
+}
